@@ -1,9 +1,7 @@
 
 
-### Hi there  ![hi(1)(1)](https://user-images.githubusercontent.com/75579211/134338661-c6f9479e-96b0-4457-9414-c1f6bac7c584.gif)
+### Hi there ![hola(1)(1)(1)](https://user-images.githubusercontent.com/75579211/134340248-68304905-4c9b-43c5-a54c-f3240884c960.gif)
 
-
-- 👋 Hi, I’m Daniel
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on TIC
