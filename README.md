@@ -1,5 +1,6 @@
+![hi(1)(1)](https://user-images.githubusercontent.com/75579211/134338494-2bdd1a49-cdaf-4697-972f-4e40b4ea76aa.gif)
 
-### Hi there 👋
+### Hi there
 
 - 👋 Hi, I’m Daniel
 - 👀 I’m interested in programming
@@ -12,6 +13,7 @@
   
   - 📫 dandevrio@gmail.com
 
+![gobbleotron](https://user-images.githubusercontent.com/75579211/134338527-3c8e04cc-f5c1-4d06-9335-2c30a1431d29.gif)
 
 
 
