@@ -14,8 +14,9 @@
   
   - 📫 dandevrio@gmail.com
 
-![gobbleotron](https://user-images.githubusercontent.com/75579211/134338801-19665614-20f6-4bb6-9316-b2baa8db1cd2.gif)
 
+
+![gobbleotron(3)](https://user-images.githubusercontent.com/75579211/134338957-5543d274-589f-49e1-8b35-0e46b888fcd1.gif)
 
 
 
