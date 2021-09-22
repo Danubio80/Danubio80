@@ -10,7 +10,7 @@
 
   - [Twiter](https://twiter.com/delriomovil80)
   
-  - 📫 ddr.tecnicoo@gmail.com
+  - 📫 ddr.tecnico@gmail.com
 
 
 
