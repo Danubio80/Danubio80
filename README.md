@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Daniel
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning .NET
+- 💞️ I’m looking to collaborate on TIC
+- 📫 How to reach me dandevrio@gmail.com
 
 <!---
 Danubio80/Danubio80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
