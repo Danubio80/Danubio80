@@ -1,6 +1,6 @@
 
 
-### Hi there ![hi(1)(1)](https://user-images.githubusercontent.com/75579211/134338661-c6f9479e-96b0-4457-9414-c1f6bac7c584.gif)
+### Hi there  ![hi(1)(1)](https://user-images.githubusercontent.com/75579211/134338661-c6f9479e-96b0-4457-9414-c1f6bac7c584.gif)
 
 
 - 👋 Hi, I’m Daniel
